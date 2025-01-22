@@ -1,0 +1,35 @@
+CSS CHEAT SHEET
+--- PROPERTIES ---
+height:
+width:
+color:
+background-color:
+font-size:
+font-family:
+
+--- POSITIONING ---
+display:
+    none
+    block
+    inline
+    inline-block
+
+position:
+    static
+    relative
+    absolute
+    fixed
+
+float:
+    left
+    right
+
+--- FLEXBOX ---
+display:
+    flex:
+    inline-flex:
+gap:
+flex-basis:
+flex-direction:
+    row
+    column
