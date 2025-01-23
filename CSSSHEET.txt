@@ -25,11 +25,19 @@ float:
     right
 
 --- FLEXBOX ---
+-- Parent
 display:
     flex:
     inline-flex:
-gap:
-flex-basis:
 flex-direction:
     row
     column
+gap:
+flex-wrap:
+justify-content:
+align-items:
+align-content:
+
+-- Child
+order:
+flex-basis:
