@@ -1,5 +1,5 @@
 CSS CHEAT SHEET
---- PROPERTIES ---
+### PROPERTIES ###
 height:
 width:
 color:
@@ -7,7 +7,7 @@ background-color:
 font-size:
 font-family:
 
---- POSITIONING ---
+### POSITIONING ###
 display:
     none
     block
@@ -24,7 +24,7 @@ float:
     left
     right
 
---- FLEXBOX ---
+### FLEXBOX ###
 -- Parent
 display:
     flex:
@@ -41,7 +41,9 @@ flex-wrap:
 align-items: #needs nowrap
 align-content: #needs wrap
 
+
 -- Child
 order:
 flex-basis:
 algin-self:
+flex: 1; //grow:1 shrink:1 basis:0
