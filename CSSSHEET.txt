@@ -79,3 +79,6 @@ grid-column-end:
 grid-row:
 grid-row-start:
 grid-rw-end:
+order:
+
+grid-area: rowstart/ colstart / rowend / colend;
