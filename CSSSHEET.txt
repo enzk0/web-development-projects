@@ -54,16 +54,28 @@ flex: 1; //grow:1 shrink:1 basis:0
 ### GRID ###
 display: grid;
 grid-template: //combination of row and columns 
-grid-template-column:
+grid-template-columns:
     fr
     px
     auto
     minmax(//unit, //unit)
     repeat(//value, //unit)
-grid-template-row:
+grid-template-rows:
     fr
     px
     auto
     minmax(//unit, //unit)
     repeat(//value, //unit)
 gap:
+grid-column:
+    span //value
+grid-row:
+    span //value
+
+-- Grid-item
+grid-column:
+grid-column-start:
+grid-column-end:
+grid-row:
+grid-row-start:
+grid-rw-end:
