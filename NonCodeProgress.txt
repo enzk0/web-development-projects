@@ -1,0 +1,11 @@
+###Introduction to Web Desgin"
+
+###Understanding Color Theory
+Analoguous Colors:
+    - For Harmonious Designs
+    - Navigation Bar
+    - Logo
+    - Body and Background
+
+Complementary Colors:
+    - To make things POP and STAND OUT
