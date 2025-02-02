@@ -22,3 +22,12 @@ Complementary Colors:
     - Alignment
     - White Space
     - Audience
+
+### User Experience Design
+    - Simplicity
+    - Consitency
+    - Reading Patterns
+        - F pattern
+        - Z pattern
+    - All Patform Design
+    - Be Ethical
