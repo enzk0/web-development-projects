@@ -14,3 +14,11 @@ Complementary Colors:
 ### Typography and How to Choose a font
     - serif family have feet
     - sans-serif family have 90degree angle feet
+
+### Managing Attention
+    - Heirarchy: Fontweights and the stuff
+        - Color; Size
+    - Layout
+    - Alignment
+    - White Space
+    - Audience
