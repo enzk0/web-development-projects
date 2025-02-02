@@ -10,3 +10,7 @@ Analoguous Colors:
 Complementary Colors:
     - To make things POP and STAND OUT
     - Dont do Color Discord
+
+### Typography and How to Choose a font
+    - serif family have feet
+    - sans-serif family have 90degree angle feet
