@@ -1,4 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
 }
+
+/* .title {
+    border: 5px solid white;
+    display: flex;
+    max-height: 10rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    margin: auto;
+    margin-top: 20%;
+}
+
+.title > h1 {
+    font-family: "Bodoni Moda SC", serif;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0;
+}
+
+.title > p {
+    color: white;
+    padding: 0;
+    margin: 0;
+} */
