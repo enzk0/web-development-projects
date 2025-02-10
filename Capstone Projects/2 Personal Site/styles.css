@@ -41,6 +41,10 @@
     font-family: "Poppins", serif;
 }
 
+.font-3 {
+    font-family: serif;
+}
+
 .profile-picture {
     height: 300px;
 }
@@ -48,4 +52,8 @@
 .about-me-logo {
     height: 200px;
     width: 200px;
+}
+
+.bg-1 {
+    background-color: #0d3648;
 }
