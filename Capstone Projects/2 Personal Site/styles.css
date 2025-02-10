@@ -40,3 +40,12 @@
 .font-2 {
     font-family: "Poppins", serif;
 }
+
+.profile-picture {
+    height: 300px;
+}
+
+.about-me-logo {
+    height: 200px;
+    width: 200px;
+}
